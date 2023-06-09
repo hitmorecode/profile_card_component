@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/hitmorecode/profile_card_component/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/hitmorecode/profile_card_component/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/four_card_feature/)
+- Live Site URL: [Live site](https://hitmorecode.github.io/profile_card_component/)
 
 ## My process
 
