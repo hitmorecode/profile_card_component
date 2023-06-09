@@ -145,6 +145,10 @@ h2 {
 }
 
 @media only screen and (min-width: 700px) {
+  .card {
+    width: 350px;
+  }
+  
   #pattern-top,
   #pattern-bottom {
     width: 1206px;
@@ -152,10 +156,10 @@ h2 {
   }
 
   #pattern-top {
-    transform: translate(-20%, -50%);
+    transform: translate(-45%, -50%);
   }
 
   #pattern-bottom {
-    transform: translate(20%, 50%);
+    transform: translate(45%, 50%);
   }
 }
