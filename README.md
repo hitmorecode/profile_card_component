@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-At first I was doing way to much calculations to horizontaly place the profile picture in the middle of the card. After doing some research I found out that this can simply be done with transform: translate(); 
+At first I was doing way to much calculations to horizontally place the profile picture in the middle of the card. After doing some research I found out that this can simply be done with transform: translate();
 
 ### Continued development
 
