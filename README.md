@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML Solution](https://github.com/hitmorecode/four_card_feature/blob/main/index.html)
-- Solution URL: [CSS Solution](https://github.com/hitmorecode/four_card_feature/blob/main/css/style.css)
+- Solution URL: [HTML Solution](https://github.com/hitmorecode/profile_card_component/blob/main/index.html)
+- Solution URL: [CSS Solution](https://github.com/hitmorecode/profile_card_component/blob/main/css/style.css)
 - Live Site URL: [Live site](https://hitmorecode.github.io/four_card_feature/)
 
 ## My process
@@ -47,15 +47,15 @@ Users should be able to:
 
 ### What I learned
 
-For this challenge I decided to go with css grid. I tried to use only css grid, but it wasn't so easy to do it just using css grid. So I combined css grid and flexbox to get the final result.
+At first I was doing way to much calculations to horizontaly place the profile picture in the middle of the card. After doing some research I found out that this can simply be done with transform: translate(); 
 
 ### Continued development
 
-Continue to learn how to combine flexbox and css grid to create the desired layout.
+Using flexbox and position
 
 ### Useful resources
 
-- [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me getting started with flexbox. I'd recommend it to anyone still learning this concept.
+- [CSS-Tricks](https://css-tricks.com/almanac/properties/t/transform/) - This is a good read on transform and it's properties. It's also explains different ways to use transform.
 - [Colt Steele - Flexbox tutorial](https://www.youtube.com/watch?v=qZv-rNx0jEA) - This video helped me understand flexbox. If you are struggling with flexbox like I did, I recommend this video.
 - [Kevin Powell - CSS Grid](https://www.youtube.com/watch?v=8QSqwbSztnA) - Great video tutorial to learn css grid.
 
